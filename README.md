@@ -17,6 +17,13 @@
 
 ---
 
+### 💻 Tech Stack (スキル)
+- TOEIC 720
+- Java GOLD
+- Google Cloud Certified Associate Cloud Engineer
+
+---
+
 ### 🚀 My Favorite Things (好きなこと)
 
 - 🏎️ **Drive:** 峠ドライブ
@@ -26,11 +33,3 @@
 - 🎮 **Gaming:** 桃鉄🍑, Apex_Master🔫
 - ☕ **Cooking:** 自炊大好きです🫕
 
----
-
-### 💻 Tech Stack (スキル)
-- TOEIC 720
-- Java GOLD
-- Google Cloud Certified Associate Cloud Engineer
-
----
