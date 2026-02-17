@@ -29,19 +29,7 @@
 ---
 
 ### 💻 Tech Stack (スキル)
-<!-- Simple Icons (https://simpleicons.org) を使ったバッジ例です -->
-<!-- ![JavaScript](https://img.shields.io/badge/any_text-you_like-blue)
-![Static Badge](https://img.shields.io/badge/:badgeContent) -->
+- TOEIC 720
+- Google Cloud Certified Associate Cloud Engineer
 
 ---
-
-### 📊 GitHub Stats (活動状況)
-<!-- あなたのGitHubの活動を自動でグラフ化します。ユーザー名を Ijier に書き換えてください -->
-<!-- ![Ijier's GitHub stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app) -->
-
----
-
-### 📫 Connect with me
-<!-- [![X (Twitter)](https://img.shields.io)](https://x.com)
-[![Blog](https://img.shields.io)](あなたのブログURL) -->
