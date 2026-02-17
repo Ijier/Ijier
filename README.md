@@ -30,6 +30,7 @@
 
 ### 💻 Tech Stack (スキル)
 - TOEIC 720
+- Java GOLD
 - Google Cloud Certified Associate Cloud Engineer
 
 ---
